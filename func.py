@@ -10,7 +10,8 @@ def spam():
 
 
 def tmp():
-    '''samara'''
+    '''samara
+    возвращает 54'''
     return 54
 
 
