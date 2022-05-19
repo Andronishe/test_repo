@@ -5,8 +5,8 @@ def spam():
     '''
     c =+ 1
     print(c)
-    print('*' * 20)
     print('samara' * 20)
+    return c
 
 
 def tmp():
