@@ -5,3 +5,7 @@ def spam():
     '''
     print('*' * 20)
     print('samara' * 20)
+
+
+def tmp():
+    return 54
