@@ -4,7 +4,6 @@ def spam():
     :return:
     '''
     c =+ 1
-    print(c)
     print('samara' * 20)
     return c
 
