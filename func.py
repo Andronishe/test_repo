@@ -10,7 +10,10 @@ def spam():
 
 
 def tmp():
+    '''samara'''
     return 54
 
+
 def tmp2():
+    '''jma'''
     return 54
