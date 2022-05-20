@@ -7,6 +7,10 @@ def spam():
     print('samara' * 20)
     return c
 
+#msg1
+#msg2
+#msg3
+
 
 def tmp():
     '''samara
